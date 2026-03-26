@@ -51,5 +51,5 @@ Researched modern **Phishing Threats**, documenting actionable prevention strate
 ├── task-2-portfolio/       # Profile screenshots & README
 ├── task-3-platforms/       # Coding badges & Google Form proofs
 ├── task-4-email-etiquette/ # Email drafts & Safety checklist
-├── task-5-cybercrime/      # Phishing case study & Prevention guide
-└── report/                 # Comprehensive project report & reflections
+└── task-5-cybercrime/      # Phishing case study & Prevention guide
+
