@@ -10,15 +10,15 @@
 This repository contains my work as a Student Digital Ambassador. The goal of this project is to demonstrate foundational digital literacy skills, including professional online presence, effective communication, and cybercrime awareness to assist peers in navigating the digital world safely.<br><br>
 
 **Module Summaries**<br>
-**Module 1: Digital Awareness -** Created a visual infographic to explain the core pillars of digital literacy.<br><br>
+**Task 1: Digital Awareness -** Created a visual infographic to explain the core pillars of digital literacy.<br><br>
 
-**Module 2: Professional Portfolio -** Established a professional presence on GitHub, LinkedIn, and Kaggle.<br><br>
+**Task 2: Professional Portfolio -** Established a professional presence on GitHub, LinkedIn, and Kaggle.<br><br>
 
-**Module 3: Platforms & Collaboration -** Completed coding challenges and built a cloud-based collaboration tool.<br><br>
+**Task 3: Platforms & Collaboration -** Completed coding challenges and built a cloud-based collaboration tool.<br><br>
 
-**Module 4: Digital Etiquette -** Developed professional email templates and a social media safety checklist.<br><br>
+**Task 4: Digital Etiquette -** Developed professional email templates and a social media safety checklist.<br><br>
 
-**Module 5: Cyber Security -** Researched phishing threats and documented actionable prevention strategies.<br><br>
+**Task 5: Cyber Security -** Researched phishing threats and documented actionable prevention strategies.<br><br>
 
 **Task 3: Digital Literacy Awareness Quiz** - <br>
 As part of my role in promoting digital safety and tool proficiency, I created a 5-question quiz for my batchmates.<br>
