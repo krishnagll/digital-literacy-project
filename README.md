@@ -1,6 +1,8 @@
 **Digital Literacy Portfolio: Student Digital Ambassador Project**<br><br>
 
 **Name:** Krishna Goyal <br>
+**Branch** B.Tech CSE 
+**University:** VIT Bhopal University
 **Registration Number:** 25BCE10712 <br>
 **Course:** CSE0001 - Digital Literacy<br><br>
 
