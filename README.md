@@ -9,7 +9,7 @@
 **Project Overview**<br>
 This repository contains my work as a Student Digital Ambassador. The goal of this project is to demonstrate foundational digital literacy skills, including professional online presence, effective communication, and cybercrime awareness to assist peers in navigating the digital world safely.<br><br>
 
-**Module Summaries**<br>
+**Task Summaries**<br>
 **Task 1: Digital Awareness -** Created a visual infographic to explain the core pillars of digital literacy.<br><br>
 
 **Task 2: Professional Portfolio -** Established a professional presence on GitHub, LinkedIn, and Kaggle.<br><br>
